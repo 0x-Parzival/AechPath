@@ -1,0 +1,10 @@
+pathway
+fastapi
+uvicorn
+sentence-transformers
+python-dotenv
+websockets
+aiohttp
+jinja2
+numpy
+pydantic
